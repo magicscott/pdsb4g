@@ -1,0 +1,8 @@
+{
+   "hlq.1"   : "BROD.AJOBS.JCL",
+   "ghrepo"  : "https://github.com/magicscott/pdsb4g.git",
+   "pds2git" : "Y",
+   "git2pds" : "Y",
+   "cycle"   : "1",
+   "zosmf_p" : "zosmf-M104"
+}
